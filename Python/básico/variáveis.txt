@@ -1,0 +1,4 @@
+Em python:
+
+2 => literal
+x = 2 => variável
