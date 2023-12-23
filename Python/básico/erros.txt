@@ -1,0 +1,3 @@
+SyntaxError => erro causado por falta de parêntesis, dois pontos, etc. Erros relacionados à sintaxe
+NameError => erro causado quando referimos-nos à uma variável que não existe ou que não definida
+TypeError => erro causado quando se tenta realizar operações com variáveis de tipos incomatíveis, como string + float

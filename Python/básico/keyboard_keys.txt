@@ -1,0 +1,4 @@
+: => colon
+() => (opening and closing) parenthesis 
+[] => (opening and closing) square bracket
+{} => (opening and closing) curly brace
